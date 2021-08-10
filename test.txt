@@ -5,6 +5,14 @@ utk changes
 
 asdasdas
 d
-:bento: Adding or updating assets.das
+:bento: Adding or updating assets.dasas
+d
+as
+das
+:bento: Adding or updating assets.as
+d
+asd
+as
+:egg: Adding an easter egg.
 d
 as
